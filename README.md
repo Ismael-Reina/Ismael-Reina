@@ -27,29 +27,21 @@ This GitHub profile is still in its early stages 🏗️ I'm gradually organizin
 
 ### ⚙️ My tech stack
 
-**Languages**  
-Java (advanced), Python (basic), JavaScript (basic)
+**Languages** → Java (advanced), Python (basic), JavaScript (basic)
 
-**Mobile Development**  
-Android (Java)
+**Mobile Development** → Android (Java)
 
-**Web Development**  
-HTML5, CSS3, Drupal, WordPress
+**Web Development** → HTML5, CSS3, Drupal, WordPress
 
-**Databases**  
-MySQL, PL/SQL
+**Databases** → MySQL, PL/SQL
 
-**Tools & Environments**  
-Git, GitHub, Docker
+**Tools & Environments** → Git, GitHub, Docker
 
-**Testing & QA**  
-JUnit
+**Testing & QA** → JUnit
 
-**Game Development**  
-Unity
+**Game Development** → Unity
 
-**Other**  
-UML, XML
+**Other** → UML, XML
 
 ---
 

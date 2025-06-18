@@ -27,7 +27,7 @@ This GitHub profile is still in its early stages 🏗️ I'm gradually organizin
 
 ### ⚙️ My tech stack
 
-- **Languages** → Java (advanced), Python (basic), JavaScript (basic)
+- **Languages** → Java (intermediate), Python (basic), JavaScript (basic)
 
 - **Mobile Development** → Android (Java)
 

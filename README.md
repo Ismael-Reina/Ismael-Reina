@@ -42,3 +42,7 @@ This GitHub profile is still in its early stages 🏗️ I'm gradually organizin
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-reina/)
+
+<a href="https://www.linkedin.com/in/ismael-reina/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
+</a>

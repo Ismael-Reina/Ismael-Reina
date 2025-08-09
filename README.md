@@ -19,10 +19,10 @@ I'm Ismael Reina, a junior software developer from Spain, passionate about learn
 
 This GitHub profile is still in its early stages 🏗️ I'm gradually organizing it to include:
 
-- 💡 `projects` → Personal projects, apps, and creative builds
-- 📚 [`notes/`](./notes) → Study material, exercises and interesting resources
-- 🔧 [`tools/`](./tools) → Favorite dev tools and user guides
-- 🧪 [`experiments/`](./experiments) → Small ideas, tests and playgrounds
+- 💡 [`projects/`](https://github.com/Ismael-Reina/projects)`projects` → Personal projects, apps, and creative builds
+- 📚 [`dev-notes/`](https://github.com/Ismael-Reina/dev-notes) → Study material, exercises and interesting resources
+- 🔧 [`toolbox/`](https://github.com/Ismael-Reina/toolbox) → Favorite dev tools and user guides
+- 🧪 [`code-lab/`](https://github.com/Ismael-Reina/code-lab) → Small ideas, tests and playgrounds
 
 ---
 

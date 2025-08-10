@@ -1,4 +1,4 @@
-![Banner de Ismael Reina](github-header-image.png)
+![Banner de Ismael Reina](img/github-header-image.png)
 
 ## Hey everyone!  👋 Welcome to my digital workshop.
 
